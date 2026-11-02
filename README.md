@@ -59,7 +59,7 @@ Training and Testing Split:
 - Testing instances: 2,000
 - Input features: 36
 3. GitHub Repository Link
-GitHub Repository: ADD_YOUR_GITHUB_REPOSITORY_URL_HERE
+GitHub Repository: [https://github.com/padmachandana/landsat-satellite-classification](https://github.com/padmachandana/landsat-satellite-classification)
 
 The repository contains:
 - app.py – Streamlit application source code.
@@ -118,7 +118,7 @@ Application Features
 7. Results Export: Allows users to download the model comparison results as a CSV file.
 The application loads the previously trained models from saved .joblib files and evaluates the uploaded labelled test dataset without retraining the models.
 
-Live Streamlit Application: ADD_YOUR_LIVE_STREAMLIT_URL_HERE
+Live Streamlit Application:[https://landsat-satellite-classification-bpgpgruqbbaiutxxgwikis.streamlit.app/](https://landsat-satellite-classification-bpgpgruqbbaiutxxgwikis.streamlit.app/)
 Technologies Used
 - Python
 - Pandas
